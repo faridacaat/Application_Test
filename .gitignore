@@ -1,0 +1,14 @@
+# Node.js
+backend/node_modules/
+backend/frontend/node_modules/
+
+# Build files
+backend/dist/
+backend/frontend/build/
+
+# Environnement et fichiers sensibles
+backend/.env
+backend/frontend/.env
+
+# Autres fichiers potentiels à ignorer
+.DS_Store
